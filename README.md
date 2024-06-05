@@ -15,4 +15,8 @@
         - a buzzer to notify the user using a loud sound
         - Future Scope: a Bluetooth module to send a notification to the user that the whistles have reached their count
 
+  Prototype output:
+  ![image](https://github.com/Yogesh120703/Automatic-pressure-cooker-alerter/assets/132259891/bd30fb17-2d42-47c6-a777-d4e36c75d9a9)
+
+
 
