@@ -13,6 +13,6 @@
         - a microphone sensor to sense the sound of a whistle
         - an Arduino to keep track of the number of whistles and notify the user
         - a buzzer to notify the user using a loud sound
-        - a Bluetooth module to send a notification to the user that the whistles have reached their count
+        - Future Scope: a Bluetooth module to send a notification to the user that the whistles have reached their count
 
 
